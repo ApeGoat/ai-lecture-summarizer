@@ -75,5 +75,4 @@ The CLI handles:
 - API failures
 
 ## Notes
-- Scope is intentionally minimal: single PDF input, no DB, no web frontend, no auth.
 - The OpenAI prompt is designed to preserve source meaning and terminology while improving study readability.
